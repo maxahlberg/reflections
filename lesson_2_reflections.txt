@@ -7,4 +7,10 @@ What happens when you initialize a repository? Why do you need to do it?
 	"snapshots" of the versions that I have commited. I need to do this 
 	to be able to keep track of my previous work
 
-	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	-The staging area handels what you want to save in your next commit. Then you know what you can
+	comment for your specific commit.
+
+
+
