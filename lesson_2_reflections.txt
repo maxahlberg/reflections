@@ -12,5 +12,9 @@ How is the staging area different from the working directory and the repository?
 	-The staging area handels what you want to save in your next commit. Then you know what you can
 	comment for your specific commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+	-You can compare your stating area to both the working directory and the last commit
+	 this way it is much easier to know what to include in your next commit.
+
 
 
