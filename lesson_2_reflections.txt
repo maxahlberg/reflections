@@ -1,0 +1,10 @@
+Lesson 2 reflections
+
+
+What happens when you initialize a repository? Why do you need to do it?
+
+	-When I initialize a repository I create a .git file that tracks all
+	"snapshots" of the versions that I have commited. I need to do this 
+	to be able to keep track of my previous work
+
+	
