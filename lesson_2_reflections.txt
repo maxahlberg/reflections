@@ -29,5 +29,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	-When we merge two branches together Git compares the branches' parents and add the wanted changes to the merge file. The merge file now have all the wanted changes from both branches and will hopefully work fine. Since it is merging two branches thats why we link the two branches together in the diagram.
 
-
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	- When git knows that the changes is a wanted change it automatically includes it to the merged version this makes you save time when merging branches instead of having to go though all the changes manually.
+	The god thing with Git is that when there is a conflict, it marks it, and lets you go throgh it to merge the file the way you want it.
 
