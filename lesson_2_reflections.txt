@@ -16,5 +16,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 	-You can compare your stating area to both the working directory and the last commit
 	 this way it is much easier to know what to include in your next commit.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+	-Some situations when  branching is helpfull is when 
+		1. You want to save one working version of the project you are working on
+		2. You want to make an experimental change, and before you know it is working you want to keep one working version up
+	It will help me be able to work on different ideas within the same type of file wihtout having to make a loads of different documents.
 
