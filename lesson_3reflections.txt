@@ -16,5 +16,8 @@ Describe the differences between forks, clones, and branches. When would you use
 	branches when i'm working on a project.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-	-Then you can work from the last known version offline and the risk of having conflicts is less. 
+	-Then you can work from the last known version offline and the risk of having conflicts is less.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	-I would find an online document where me and my friends could work on the project. It would be easier to keep on working but much harder to keep track of changes and see what made the bug. 
   
